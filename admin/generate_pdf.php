@@ -33,7 +33,7 @@
 
     $table_data = "
 
-    <h2 style='text-align: center'>KHÁCH SẠN VINH HOTEL</h2>
+    <h2 style='text-align: center'>KHÁCH SẠN LUXURY HOTEL</h2>
     <h3 style='text-align: center'>HOÁ ĐƠN</h3>
     <table border='1' style='margin: auto'>
       <tr>
